@@ -1,6 +1,7 @@
 package com.plcoding.meditationuiyoutube.ui.theme
 
 import androidx.compose.ui.graphics.Color
+import com.plcoding.meditationuiyoutube.R
 
 val TextWhite = Color(0xffeeeeee)
 val DeepBlue = Color(0xff06164c)
@@ -20,3 +21,8 @@ val LightGreen3 = Color(0xff11d79b)
 val BlueViolet1 = Color(0xffaeb4fd)
 val BlueViolet2 = Color(0xff9fa5fe)
 val BlueViolet3 = Color(0xff8f98fd)
+val Purple200 = Color(R.color.purple_200)
+val Purple500 = Color(R.color.purple_500)
+val Purple700 = Color(R.color.purple_700)
+val Teal200 = Color(R.color.teal_200)
+val Teal700 = Color(R.color.teal_700)
